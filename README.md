@@ -7,7 +7,8 @@ Simple image classification and localization pytorch code for training and Infer
   - training data 
     - I used data set from 
     [Object-Classification-and-Localization-with-TensorFlow](https://github.com/MuhammedBuyukkinaci/Object-Classification-and-Localization-with-TensorFlow.git)
-    - Becasue of limitted data set, I did simple image agumentation to help model training 
+    - Becasue of limitted data set, I did simple image agumentation to increase dataset and borrowed somw cv2 image trasformation code
+    [aakanksha](https://jovian.ml/aakanksha-ns)
   - sample data
     - I made vege_example folder for testing
   - pre trained model file: sim_bbox_final.pth
