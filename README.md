@@ -1,7 +1,8 @@
 # BBOX
 Simple image classification and localization pytorch code for training and Inference for vegetable data set
 ## Network architecture
-  - I used VGG16 pre trained network
+  - I used VGG16 pre trained network features network and added my classification and boundingbox network at the end
+  - there are 3 different vegetable and bounding box have four coordinates
 ## contents
   - training and validation jupyter notebook use: vege_bbox.ipynb
   - training data 
